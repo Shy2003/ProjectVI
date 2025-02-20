@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConestogaCollegeMerchandise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b252904c3780ef2143d4f59f708986554b7ada47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3319cd88b8bf15ae4820be83cc9fd6d0b6176bf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConestogaCollegeMerchandise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConestogaCollegeMerchandise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\build\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\build\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,11 +70,50 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\README.md",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\README.md",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\README.md",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-20T21:50:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\.gitignore",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\.gitignore",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\.gitignore",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T21:50:21.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\build\\Dockerfile",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\build\\Dockerfile",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\build\\Dockerfile",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\build\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T21:49:40.49Z",
+              "EditorCaption": ""
             }
           ]
         }
