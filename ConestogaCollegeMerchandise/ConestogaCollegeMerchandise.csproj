@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <Folder Include="public\images\" />
-    <Folder Include="public\css\" />
     <Folder Include="src\Controllers\" />
     <Folder Include="src\Models\" />
     <Folder Include="src\Services\" />

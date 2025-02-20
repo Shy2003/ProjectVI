@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\src\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\src\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\data\\merchandisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\data\\merchandisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\public\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\public\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\conestogacollegemerchandise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\conestogacollegemerchandise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\data\\merchandisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\data\\merchandisecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\src\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\src\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\src\\models\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\src\\models\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\conestogacollegemerchandise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|solutionrelative:conestogacollegemerchandise\\conestogacollegemerchandise.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EEFDE85-A69A-4D84-BD45-C58D0C995A5A}|ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.csproj|c:\\users\\ethannguyen\\source\\repos\\conestogacollegemerchandise\\conestogacollegemerchandise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +114,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\js\\app.js",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\public\\js\\app.js",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\js\\app.js",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\public\\js\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T22:29:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\css\\style.css",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\public\\css\\style.css",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\css\\style.css",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\public\\css\\style.css",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T22:28:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\index.html",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\public\\index.html",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\public\\index.html",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\public\\index.html",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-20T22:28:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ConestogaCollegeMerchandise.http",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.http",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.http",
@@ -110,12 +161,11 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-20T22:11:29.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T22:11:29.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MerchandiseContext.cs",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\Data\\MerchandiseContext.cs",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\Data\\MerchandiseContext.cs",
@@ -123,21 +173,7 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\Data\\MerchandiseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:03:23.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MerchandiseController.cs",
-              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
-              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
-              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
-              "RelativeToolTip": "ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:02:04.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T22:03:23.354Z"
             },
             {
               "$type": "Document",
@@ -147,7 +183,7 @@
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\Program.cs",
               "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\Program.cs",
               "RelativeToolTip": "ConestogaCollegeMerchandise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T22:03:30.826Z",
               "EditorCaption": ""
@@ -155,19 +191,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\appsettings.json",
-              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\appsettings.json",
-              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\appsettings.json",
-              "RelativeToolTip": "ConestogaCollegeMerchandise\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T22:03:00.017Z",
-              "EditorCaption": ""
+              "Title": "MerchandiseController.cs",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\src\\Controllers\\MerchandiseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:02:04.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Merchandise.cs",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\src\\Models\\Merchandise.cs",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\src\\Models\\Merchandise.cs",
@@ -175,12 +210,23 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\src\\Models\\Merchandise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:00:23.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T22:00:23.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\appsettings.json",
+              "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\appsettings.json",
+              "ToolTip": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\appsettings.json",
+              "RelativeToolTip": "ConestogaCollegeMerchandise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T22:03:00.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\README.md",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\README.md",
@@ -188,12 +234,11 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-02-20T21:50:38.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T21:50:38.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\.gitignore",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\.gitignore",
@@ -201,12 +246,11 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-20T21:50:21.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T21:50:21.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\EthanNguyen\\source\\repos\\ConestogaCollegeMerchandise\\ConestogaCollegeMerchandise\\build\\Dockerfile",
               "RelativeDocumentMoniker": "ConestogaCollegeMerchandise\\build\\Dockerfile",
@@ -214,8 +258,7 @@
               "RelativeToolTip": "ConestogaCollegeMerchandise\\build\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-20T21:49:40.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T21:49:40.49Z"
             }
           ]
         }
