@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ConestogaCollegeMerchandise.Controllers;
+namespace ConestogaCollegeMerchandise.src.Controllers;
 
 [ApiController]
 [Route("[controller]")]
